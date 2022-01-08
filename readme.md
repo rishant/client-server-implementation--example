@@ -1,10 +1,12 @@
 ### Online Learning References:
-	https://www.youtube.com/watch?v=u_InEBgRVcc
+[![SC2 Video](https://img.youtube.com/vi/i5OVcTdt_OU/0.jpg)](https://www.youtube.com/watch?v=i5OVcTdt_OU&t=611s)
+[![SC2 Video](https://img.youtube.com/vi/u_InEBgRVcc/0.jpg)](https://www.youtube.com/watch?v=u_InEBgRVcc)
+[![SC2 Video](https://img.youtube.com/vi/T4Df5_cojAs/0.jpg)](https://www.youtube.com/watch?v=T4Df5_cojAs&t=418s)
+
 	https://www.codejava.net/java-se/networking/java-udp-client-server-program-example
 	https://www.codejava.net/java-se/networking/java-socket-server-examples-tcp-ip
 	https://www.codejava.net/java-se/networking/java-urlconnection-and-httpurlconnection-examples
 	https://www.codejava.net/java-se/networking/how-to-use-java-urlconnection-and-httpurlconnection
-	https://www.youtube.com/watch?v=T4Df5_cojAs&t=418s
 
 ## Server Request/Response Model:
 	1. Single Thread 
