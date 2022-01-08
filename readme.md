@@ -43,7 +43,6 @@
 
 The valid state transitions for components that support Lifecycleare: 
 ```
-    enter code here
             start()
   -----------------------------
   |                           |
